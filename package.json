@@ -25,14 +25,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/openedx/frontend-component-footer.git#skillsense"
+    "url": "https://github.com/robinkumar99/frontend-component-footer.git#skillsense"
   },
   "author": "edX",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/openedx/frontend-component-footer.git#skillsense/issues"
+    "url": "https://github.com/robinkumar99/frontend-component-footer.git#skillsense/issues"
   },
-  "homepage": "https://github.com/openedx/frontend-component-footer.git#skillsense/readme",
+  "homepage": "https://github.com/robinkumar99/frontend-component-footer.git#skillsense/readme",
   "devDependencies": {
     "@edx/brand": "git+https://github.com/robinkumar99/brand-openedx#skillsense",
     "@edx/browserslist-config": "^1.1.1",
@@ -70,6 +70,7 @@
     "ts-jest": "^29.1.2"
   },
   "peerDependencies": {
+    "@edx/brand": "git+https://github.com/robinkumar99/brand-openedx#skillsense",
     "@edx/frontend-platform": "*",
     "@openedx/paragon": ">= 21.11.3 < 23.0.0",
     "prop-types": "^15.5.10",
